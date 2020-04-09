@@ -50,7 +50,7 @@ public class Leetcode92_reverse_linkedlist_II {
         }
         
         /*Step3:
-        recursively insert 'curr' node
+        iteratively insert 'curr' node
         and
         return dummyHead.next
         */
