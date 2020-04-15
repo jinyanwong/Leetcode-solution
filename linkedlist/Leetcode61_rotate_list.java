@@ -1,7 +1,8 @@
 package Leetcode_solution;
 
 /**
- *
+ * blog : https://blog.csdn.net/u011106767/article/details/105322346
+ * 
  * @author jinyanwong
  */
 public class Leetcode61_rotate_list {
