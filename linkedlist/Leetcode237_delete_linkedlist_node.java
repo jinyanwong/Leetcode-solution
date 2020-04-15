@@ -6,7 +6,8 @@
 package Leetcode_solution;
 
 /**
- *
+ * blog : https://blog.csdn.net/u011106767/article/details/105261867
+ * 
  * @author jinyanwong
  */
 public class Leetcode237_delete_linkedlist_node {
