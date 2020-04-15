@@ -1,7 +1,7 @@
 package Leetcode_solution;
 
 /**
- *
+ * blog https://blog.csdn.net/u011106767/article/details/105262722
  * @author jinyanwong
  */
 public class Leetcode19_delete_reciprocal_nth_node {
