@@ -1,5 +1,11 @@
 package Leetcode_solution;
 
+/*
+* blog : https://blog.csdn.net/u011106767/article/details/105504811
+*
+* @author:jinyanwong
+*/
+
 public class Leetcode725_split_linkedlist {
 
     static class ListNode {
