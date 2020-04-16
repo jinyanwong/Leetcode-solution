@@ -1,7 +1,7 @@
 package Leetcode_solution;
 
 /**
- *
+ * blog : https://blog.csdn.net/u011106767/article/details/105356597
  * @author jinyanwong
  */
 public class Leetcode86_partition_list {
