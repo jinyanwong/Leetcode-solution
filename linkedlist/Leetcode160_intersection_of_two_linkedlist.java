@@ -1,6 +1,10 @@
 package Leetcode_solution;
 
-
+/*
+* blog : https://blog.csdn.net/u011106767/article/details/105427576
+*
+* @author:jinyanwong
+*/
 public class Leetcode160_intersection_of_two_linkedlist {
 
     static class ListNode {
