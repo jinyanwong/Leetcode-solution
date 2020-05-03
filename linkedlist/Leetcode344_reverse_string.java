@@ -24,10 +24,10 @@ public class Leetcode344_reverse_string {
     public static void main(String[] args) {
         char[] arrC = {'h', 'e', 'l', 'l', 'o'};
         char[] arrC1 = {'q', 'e', 'r', 't'};
-        System.out.println("input:" + new String(arrC1));
+        System.out.println("input:" + Arrays.toString(arrC1));
         
         char[] res = solution(arrC1);
-        System.out.println("output:" + new String(res));
+        System.out.println("output:" + Arrays.toString(res));
 
     }
 }
