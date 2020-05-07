@@ -2,7 +2,7 @@ package Leetcode_solution;
 
 
 /**
- * blog : https://jinyanwong.blog.csdn.net/article/details/105929253
+ * blog : https://jinyanwong.blog.csdn.net/article/details/105966649
  *
  * @author jinyanwong
  */
@@ -13,6 +13,7 @@ public class Leetcode434_number_of_words_in_string {
         
         int res = 0;
         s = s.trim();
+        
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) == ' ' 
                     && i + 1 < s.length() 
