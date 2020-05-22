@@ -1,7 +1,7 @@
 package Leetcode_solution;
 
 /**
- * blog : https://jinyanwong.blog.csdn.net/article/details/106208943
+ * blog : https://jinyanwong.blog.csdn.net/article/details/106274183
  *
  * @author jinyanwong
  */
